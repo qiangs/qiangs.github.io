@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{publications.html}
 = Qiang Shen -- Publications
 
+== Preprints
+. V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," submitted for conference publication, Nov. 2018. #2019ECC
+. R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-based parametric active model discrimination design with applications to driver intention estimation," submitted for conference publication, Nov. 2018. #2019ECC
+. C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault estimation and fault-tolerant steering law for single gimbal control moment gyro systems," submitted for conference publication, Nov. 2018 (invited session). #2019ECC
+. *Q. Shen* and S. Z. Yong, ``Robust optimization-based affine abstractions for uncertain affine dynamics," submitted for conference publication, Sep. 2018. #2019ACC
+. S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Bounded-error estimator design with missing data patterns via state augmentation," submitted for conference publication, Sep. 2018. #2019ACC
+# . C. F. Yue, *Q. Shen*, C. H. Goh, and T. H. Lee, ``Development of a general momentum exchange devices fault model for spacecraft fault-tolerant control system design," submitted for journal publication, 2018. #IFAC-CEP
+# . C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh, and T. H. Lee, ``Attitude stabilization using two parallel single gimbal control moment gyros," submitted for journal publication, 2018. #AIAA_JGCD
+# . C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Under-actuated attitude maneuver using two parallel single gimbal control moment gyros," submitted for journal publication, 2018. #IEEE-TIE
+# . C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Angular velocity constrained adaptive fault-tolerant tracking control with actuator uncertainties and faults" submitted for journal publication, 2018. #IEEE-TMECH
+# . *Q. Shen*, C. Yue, X. Yu and C. H. Goh, ``Fault modeling, estimation and fault-tolerant steering logic design for single gimbal control moment gyro," submitted for journal publication, 2018. #IEEE-TCST
+# . X. B. Cao, C. F. Yue, M. Liu and *Q. Shen*, Y. H. Wu, ``Robust fault-tolerant attitude tracking with guaranteed prescribed performance" submitted for journal publication, 2018. #IJRNC
+
+
 == Journal Papers
 . *Q. Shen*, C. Yue, C. H. Goh and D. Wang, “/[https://doi.org/10.1109/TIE.2018.2854602  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, accepted, published online, DOI: 10.1109/TIE.2018.2854602. ~[Papers/Shen2018TIE.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. Yue, C. H. Goh, B. Wu and D. Wang, “/[https://doi.org/10.1109/TMECH.2018.2812871  Rigid-Body Attitude Tracking Control under Actuator Faults and Angular Velocity Constraints]/,” IEEE/ASME Transactions on Mechatronics, 23(3), pp. 1338-1349, 2018. ~[Papers/Shen2018TMECH.pdf \[*PDF*\]] \n
