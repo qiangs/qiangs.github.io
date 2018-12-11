@@ -30,7 +30,7 @@ gyro or mission specification requirement, the spacecraft's angular velocity is 
 This research studies the three-axis reorientation problem of a fully actuated rigid-body subject to both of attitude and angular rate constraints. We proposed two strictly convex potential functions for attitude constraint and angular rate constraint, whose global minima locate at their equilibrium. Using the sliding mode control technique, an adaptive controller is designed to achieve asymptotic attitude stabilization and satisfy multiple state constraints simultaneously. 
 A clip demonstrating the spacecraft is re-targeting its sensitive
 instrument while avoiding four celestial objects in the spacecraft
-reorientation configuration space can be found [https://youtu.be/08bR-m48ymY  *here*] (https:\/\/youtu.be/08bR-m48ymY). 
+reorientation configuration space can be found [https://youtu.be/08bR-m48ymY  *here*] (*https:\/\/youtu.be/08bR-m48ymY*). 
 ~~~
 
 == Advanced Spacecraft Attitude Control Design Using Control Moment Gyroscopes (CMGs)
