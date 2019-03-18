@@ -2,6 +2,13 @@
 = Qiang Shen -- Publications
 
 == Preprints
+
+. *Q. Shen*, R. C. Niu and S. Z. Yong, ``Active Model Discrimination with Disjunctive and Coupled Constraints," submitted for journal publication, 2019. #IEEE-LCSS
+
+. S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Equalized Recovery Estimators for Affine Systems with Delayed and Missing Observations," submitted for conference publication, 2019. #IEEE-CDC
+
+. Z. Y. Jin, *Q. Shen* and S. Z. Yong, ``Optimization-Based Approaches for Affine Abstraction and Model Discrimination of Uncertain Nonlinear Systems," submitted for conference publication, 2019. #IEEE-CDC
+
 # . C. F. Yue, *Q. Shen*, C. H. Goh, and T. H. Lee, ``Development of a general momentum exchange devices fault model for spacecraft fault-tolerant control system design," submitted for journal publication, 2018. #IFAC-CEP
 # . C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh, and T. H. Lee, ``Attitude stabilization using two parallel single gimbal control moment gyros," submitted for journal publication, 2018. #AIAA_JGCD
 # . C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Under-actuated attitude maneuver using two parallel single gimbal control moment gyros," submitted for journal publication, 2018. #IEEE-TIE
@@ -26,7 +33,7 @@
 == Conference Proceedings
 . V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," IEEE European Control Conference, 2019 (accepted). #2019ECC
 . R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation," IEEE European Control Conference, 2019 (accepted). #2019ECC
-. C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault Estimation and Fault-Tolerant Steering Law for Single Gimbal Control Moment Gyro Systems," IEEE European Control Conference, 2019 (accepted). (invited session). #2019ECC
+. C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault Estimation and Fault-Tolerant Steering Law for Single Gimbal Control Moment Gyro Systems," IEEE European Control Conference, 2019 (accepted). #2019ECC
 . *Q. Shen* and S. Z. Yong, ``Robust Optimization-Based Affine Abstractions for Uncertain Affine Dynamics," IEEE American Control Conference, 2019 (accepted). #2019ACC
 . S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Bounded-Error Estimator Design with Missing Data Patterns via State Augmentation," IEEE American Control Conference, 2019 (accepted). #2019ACC
 . K. R. Singh, *Q. Shen* and S. Z. Yong, "Mesh-Based Affine Abstraction of Nonlinear Systems with Tighter Bounds," IEEE Conference on Decision and Control (CDC), Miami, FL, USA, 2018. ~[Papers/Conf_Singh2018CDC.pdf \[*PDF*\]] \n
