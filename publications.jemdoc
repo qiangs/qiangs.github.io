@@ -29,6 +29,7 @@
 . *Q. Shen*, D. W. Wang, S. Q. Zhu and E. K. Poh, “/[http://doi.org/10.1109/TCST.2014.2354260  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3), pp. 1131-1138, May 2015. ~[Papers/Shen2015TCST.pdf \[*PDF*\]] \n
 
 == Conference Proceedings
+. X. G. Xiong, W. Q. Chen, Z. C. Liu and *Q. Shen*, ``DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry Based on Dual Stage EKF,"  IEEE International Conference on Real-time Computing and Robotics, 2019 (accepted). #2019RCAR
 . V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," European Control Conference, 2019 (accepted). #2019ECC
 . R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation," European Control Conference, 2019 (accepted). #2019ECC
 . C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault Estimation and Fault-Tolerant Steering Law for Single Gimbal Control Moment Gyro Systems," European Control Conference, 2019 (accepted). #2019ECC
