@@ -16,7 +16,7 @@
 
 
 == Journal Papers
-. C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh and T. H. Lee, “Attitude Stabilization Using Two Parallel Single Gimbal Control Moment Gyros,” Journal of Guidance, Control, and Dynamics, 2019 (accepted). \n
+. C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh and T. H. Lee, “/[https://arc.aiaa.org/doi/abs/10.2514/1.G003445 Attitude Stabilization Using Two Parallel Single Gimbal Control Moment Gyros]/,” Journal of Guidance, Control, and Dynamics, 2019 (accepted). ~[Papers/Yue2019JGCD.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh and D. W. Wang, “/[https://doi.org/10.1109/TIE.2018.2854602  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, 66(5), pp. 3763-3762, 2019. ~[Papers/Shen2018TIE.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh, B. L. Wu and D. W. Wang, “/[https://doi.org/10.1109/TMECH.2018.2812871  Rigid-Body Attitude Tracking Control under Actuator Faults and Angular Velocity Constraints]/,” IEEE/ASME Transactions on Mechatronics, 23(3), pp. 1338-1349, 2018. ~[Papers/Shen2018TMECH.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh, B. L. Wu and D. W. Wang, “/[https://doi.org/10.1016/j.automatica.2017.12.029  Rigid-Body Attitude Stabilization with Attitude and Angular Rate Constraints]/,” Automatica, 90, pp. 157-163, 2018. ~[Papers/Shen2018Automatica.pdf \[*PDF*\]] ~[Papers/Correction_Auto2018.pdf  \* *CORRECTION!* \*] \n
@@ -30,10 +30,10 @@
 
 == Conference Proceedings
 . X. G. Xiong, W. Q. Chen, Z. C. Liu and *Q. Shen*, ``DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry Based on Dual Stage EKF,"  IEEE International Conference on Real-time Computing and Robotics, 2019 (accepted). #2019RCAR
-. V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," European Control Conference, 2019 (accepted). #2019ECC
-. R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation," European Control Conference, 2019 (accepted). #2019ECC
-. C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault Estimation and Fault-Tolerant Steering Law for Single Gimbal Control Moment Gyro Systems," European Control Conference, 2019 (accepted). #2019ECC
-. *Q. Shen* and S. Z. Yong, ``Robust Optimization-Based Affine Abstractions for Uncertain Affine Dynamics," American Control Conference, 2019 (accepted). #2019ACC
+. V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," European Control Conference, 2019 (accepted). ~[Papers/Conf_ECC19VishnuShen.pdf \[*PDF*\]] \n
+. R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation," European Control Conference, 2019 (accepted). ~[Papers/Conf_ECC19NiuShen.pdf \[*PDF*\]] \n
+. C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault Estimation and Fault-Tolerant Steering Law for Single Gimbal Control Moment Gyro Systems," European Control Conference, 2019 (accepted). ~[Papers/Conf_ECC19YueShen.pdf \[*PDF*\]] \n
+. *Q. Shen* and S. Z. Yong, ``Robust Optimization-Based Affine Abstractions for Uncertain Affine Dynamics," American Control Conference, 2019 (accepted). ~[Papers/Conf_ACC19ShenYong.pdf \[*PDF*\]] \n
 . S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Bounded-Error Estimator Design with Missing Data Patterns via State Augmentation," American Control Conference, 2019 (accepted). ~[Papers/Conf_ACC19HassaanShen.pdf \[*PDF*\]] \n
 . K. R. Singh, *Q. Shen* and S. Z. Yong, "/[https://ieeexplore.ieee.org/abstract/document/8618714/ Mesh-Based Affine Abstraction of Nonlinear Systems with Tighter Bounds]/," IEEE Conference on Decision and Control (CDC), Miami, FL, USA, 2018. ~[Papers/Conf_Singh2018CDC.pdf \[*PDF*\]] \n
 . *Q. Shen*, X. Yu and C. F. Yue, "Fault Modeling and Estimation for CMG," IEEE/CSAA Guidance, Navigation and Control Conference (GNCC), Xiamen, China, 2018. ~[Papers/Conf_Shen2018CGNCC.pdf \[*PDF*\]] \n
@@ -52,7 +52,7 @@
 
 
 == Thesis
-Qiang Shen, "/[https://dr.ntu.edu.sg/handle/10356/69067 Fault-Tolerant Control for Spacecraft Attitude Control Systems】/," PhD thesis, Nanyang Technological University, 2016
+Qiang Shen, "/[https://dr.ntu.edu.sg/handle/10356/69067 Fault-Tolerant Control for Spacecraft Attitude Control Systems]/," PhD thesis, Nanyang Technological University, 2016
 
 ~~~
 Please feel free to [qiang.shen@hotmail.com contact me] should you be interested in my research.
