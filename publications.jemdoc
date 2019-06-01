@@ -30,11 +30,11 @@
 
 == Conference Proceedings
 . X. G. Xiong, W. Q. Chen, Z. C. Liu and *Q. Shen*, ``DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry Based on Dual Stage EKF,"  IEEE International Conference on Real-time Computing and Robotics, 2019 (accepted). #2019RCAR
-. V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," European Control Conference, 2019 (accepted). ~[Papers/Conf_ECC19VishnuShen.pdf \[*PDF*\]] \n
-. R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation," European Control Conference, 2019 (accepted). ~[Papers/Conf_ECC19NiuShenYong.pdf \[*PDF*\]] \n
+. V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``Safe Autonomous Overtaking with Intention Estimation," European Control Conference, 2019 (accepted). #~[Papers/Conf_ECC19VishnuShen.pdf \[*PDF*\]] \n
+. R. C. Niu, *Q. Shen* and S. Z. Yong, ``Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation," European Control Conference, 2019 (accepted). #~[Papers/Conf_ECC19NiuShenYong.pdf \[*PDF*\]] \n
 . C. F. Yue, *Q. Shen*, C. H. Goh and T. H. Lee, ``Fault Estimation and Fault-Tolerant Steering Law for Single Gimbal Control Moment Gyro Systems," European Control Conference, 2019 (accepted). ~[Papers/Conf_ECC19YueShen.pdf \[*PDF*\]] \n
-. *Q. Shen* and S. Z. Yong, ``Robust Optimization-Based Affine Abstractions for Uncertain Affine Dynamics," American Control Conference, 2019 (accepted). ~[Papers/Conf_ACC19ShenYong.pdf \[*PDF*\]] \n
-. S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Bounded-Error Estimator Design with Missing Data Patterns via State Augmentation," American Control Conference, 2019 (accepted). ~[Papers/Conf_ACC19HassaanShen.pdf \[*PDF*\]] \n
+. *Q. Shen* and S. Z. Yong, ``Robust Optimization-Based Affine Abstractions for Uncertain Affine Dynamics," American Control Conference, 2019 (accepted). #~[Papers/Conf_ACC19ShenYong.pdf \[*PDF*\]] \n
+. S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Bounded-Error Estimator Design with Missing Data Patterns via State Augmentation," American Control Conference, 2019 (accepted). #~[Papers/Conf_ACC19HassaanShen.pdf \[*PDF*\]] \n
 . K. R. Singh, *Q. Shen* and S. Z. Yong, "/[https://ieeexplore.ieee.org/abstract/document/8618714/ Mesh-Based Affine Abstraction of Nonlinear Systems with Tighter Bounds]/," IEEE Conference on Decision and Control (CDC), Miami, FL, USA, 2018. ~[Papers/Conf_Singh2018CDC.pdf \[*PDF*\]] \n
 . *Q. Shen*, X. Yu and C. F. Yue, "Fault Modeling and Estimation for CMG," IEEE/CSAA Guidance, Navigation and Control Conference (GNCC), Xiamen, China, 2018. ~[Papers/Conf_Shen2018CGNCC.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. H. Goh, C. Yue, B. L. Wu and D. W. Wang, "/[https://ieeexplore.ieee.org/document/8003053/  Angular Rate Constrained Attitude Reorientation of Rigid Body]/," International Conference on Control and Automation (ICCA), Ohrid, Macedonia, 2017, pp. 165-169. ~[Papers/Conf_Shen2017ICCA.pdf \[*PDF*\]] \n
