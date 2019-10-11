@@ -8,12 +8,12 @@
 . C. F. Yue, *Q. Shen*, X. B. Cao, F. Wang, C. H. Goh, and T. H. Lee, ``Development of A General Momentum Exchange Devices Fault Model for Spacecraft Fault-Tolerant Control System Design," submitted for journal publication, 2019. ~[https://arxiv.org/pdf/1907.06751.pdf \[*PDF*\]] \n
 . C. F. Yue, *Q. Shen*, F. Wang, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Under-Actuated Attitude Maneuver Using Two Parallel Single Gimbal Control Moment Gyros," submitted for journal publication, 2019. #IEEE-TIE
 . C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Angular Velocity Constrained Adaptive Fault-Tolerant Tracking Control of Spacecraft with Actuator Uncertainties and Faults" submitted for journal publication, 2019. #IEEE-TSMC-Sys
-. C. F. Yue, F. Wang, X. B. Cao, *Q. Shen*, X. Q. Chen, ``Robust Fault-Tolerant Attitude Tracking with Guaranteed Prescribed Performance" submitted for journal publication, 2019. #JoFranklin
 
 #. S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Equalized Recovery Estimators for Affine Systems with Delayed and Missing Observations," submitted for conference publication, 2019. #IEEE-CDC \n
 
 
 == Journal Papers
+. C. F. Yue, F. Wang, X. B. Cao, *Q. Shen*, X. Q. Chen, ``Robust Fault-Tolerant Attitude Tracking with Guaranteed Prescribed Performance" Accepted by Journal of The Franklin Institute, 2019. #JoFranklin
 . C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh and T. H. Lee, “/[https://arc.aiaa.org/doi/abs/10.2514/1.G003445 Attitude Stabilization Using Two Parallel Single Gimbal Control Moment Gyros]/,” Journal of Guidance, Control, and Dynamics, 42(6), pp.1353-1364, 2019 . ~[Papers/Yue2019AIAAJGCD.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh and D. W. Wang, “/[https://doi.org/10.1109/TIE.2018.2854602  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, 66(5), pp. 3763-3772, 2019. ~[Papers/Shen2018TIE.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh, B. L. Wu and D. W. Wang, “/[https://doi.org/10.1109/TMECH.2018.2812871  Rigid-Body Attitude Tracking Control under Actuator Faults and Angular Velocity Constraints]/,” IEEE/ASME Transactions on Mechatronics, 23(3), pp. 1338-1349, 2018. ~[Papers/Shen2018TMECH.pdf \[*PDF*\]] \n
