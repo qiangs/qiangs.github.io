@@ -3,8 +3,7 @@
 
 == Preprints
 
-. *Q. Shen*, R. C. Niu and S. Z. Yong, ``Active Model Discrimination with Disjunctive and Coupled Constraints," submitted for journal publication, 2019. #IEEE-LCSS \n
-. *Q. Shen*, C. Yue, X. Yu and C. H. Goh, ``Fault Modeling, Estimation and Fault-Tolerant Steering Logic Design for Single Gimbal Control Moment Gyro," submitted for journal publication, 2019. #IEEE-TCST \n
+. *Q. Shen*, R. C. Niu and S. Z. Yong, ``Active Model Discrimination with Disjunctive and Coupled Constraints," submitted for journal publication, 2019. #IEEE-TAC \n
 . C. F. Yue, *Q. Shen*, X. B. Cao, F. Wang, C. H. Goh, and T. H. Lee, ``Development of A General Momentum Exchange Devices Fault Model for Spacecraft Fault-Tolerant Control System Design," submitted for journal publication, 2019. ~[https://arxiv.org/pdf/1907.06751v3.pdf \[*PDF*\]] \n
 . C. F. Yue, *Q. Shen*, F. Wang, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Under-Actuated Attitude Maneuver Using Two Parallel Single Gimbal Control Moment Gyros," submitted for journal publication, 2019. #IEEE-TIE
 . C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Angular Velocity Constrained Adaptive Fault-Tolerant Tracking Control of Spacecraft with Actuator Uncertainties and Faults" submitted for journal publication, 2019. #IEEE-TSMC-Sys
@@ -13,7 +12,8 @@
 
 
 == Journal Papers
-. C. F. Yue, F. Wang, X. B. Cao, *Q. Shen*, X. Q. Chen, ``/[https://doi.org/10.1016/j.jfranklin.2019.10.003 Robust Fault-Tolerant Attitude Tracking with Guaranteed Prescribed Performance]/," Accepted by Journal of The Franklin Institute, 2019. ~[Papers/Yue2019Journal_of_Franklin.pdf \[*PDF*\]] \n
+. *Q. Shen*, C. Yue, X. Yu and C. H. Goh, ``Fault Modeling, Estimation and Fault-Tolerant Steering Logic Design for Single Gimbal Control Moment Gyro," Accepted by IEEE Transactions on Control Systems Technology, 2020. \n
+. C. F. Yue, F. Wang, X. B. Cao, *Q. Shen*, X. Q. Chen, ``/[https://doi.org/10.1016/j.jfranklin.2019.10.003 Robust Fault-Tolerant Attitude Tracking with Guaranteed Prescribed Performance]/," Journal of The Franklin Institute, 357(1), pp.229-253, 2020. ~[Papers/Yue2019Journal_of_Franklin.pdf \[*PDF*\]] \n
 . C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh and T. H. Lee, “/[https://arc.aiaa.org/doi/abs/10.2514/1.G003445 Attitude Stabilization Using Two Parallel Single Gimbal Control Moment Gyros]/,” Journal of Guidance, Control, and Dynamics, 42(6), pp.1353-1364, 2019. ~[Papers/Yue2019AIAAJGCD.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh and D. W. Wang, “/[https://doi.org/10.1109/TIE.2018.2854602  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, 66(5), pp. 3763-3772, 2019. ~[Papers/Shen2018TIE.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh, B. L. Wu and D. W. Wang, “/[https://doi.org/10.1109/TMECH.2018.2812871  Rigid-Body Attitude Tracking Control under Actuator Faults and Angular Velocity Constraints]/,” IEEE/ASME Transactions on Mechatronics, 23(3), pp. 1338-1349, 2018. ~[Papers/Shen2018TMECH.pdf \[*PDF*\]] \n
@@ -27,7 +27,8 @@
 . *Q. Shen*, D. W. Wang, S. Q. Zhu and E. K. Poh, “/[http://doi.org/10.1109/TCST.2014.2354260  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3), pp. 1131-1138, May 2015. ~[Papers/Shen2015TCST.pdf \[*PDF*\]] \n
 
 == Conference Proceedings
-. Z. Y. Jin, *Q. Shen* and S. Z. Yong, ``Optimization-Based Approaches for Affine Abstraction and Model Discrimination of Uncertain Nonlinear Systems," IEEE Conference on Decision and Control (CDC), Nice, France, 2019 (accepted). #IEEE-CDC \n
+. *Q. Shen* and S. Z. Yong, ``Active Model Discrimination Using Partition-Based Output Feedback," European Control Conference (ECC), Saint Petersburg, Russia, 2020.
+. Z. Y. Jin, *Q. Shen* and S. Z. Yong, ``Optimization-Based Approaches for Affine Abstraction and Model Discrimination of Uncertain Nonlinear Systems," IEEE Conference on Decision and Control (CDC), Nice, France, 2019.
 . X. G. Xiong, W. Q. Chen, Z. C. Liu and *Q. Shen*, ``DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry Based on Dual Stage EKF,"  IEEE International Conference on Real-time Computing and Robotics, Irkutsk, Russia, 2019. ~[https://arxiv.org/pdf/1905.00684.pdf \[*PDF*\]] \n 
 . V. S. Chipade, *Q. Shen*, L. X. Huang, N. Ozay, S. Z. Yong and D. Panagou, ``/[https://ieeexplore.ieee.org/abstract/document/8795715 Safe Autonomous Overtaking with Intention Estimation]/," European Control Conference, Naples, Italy, 2019. ~[Papers/Conf_ECC19VishnuShen.pdf \[*PDF*\]] \n
 . R. C. Niu, *Q. Shen* and S. Z. Yong, ``/[https://ieeexplore.ieee.org/document/8795825 Partition-Based Parametric Active Model Discrimination Design with Applications to Driver Intention Estimation]/," European Control Conference, Naples, Italy, 2019. ~[Papers/Conf_ECC19NiuShenYong.pdf \[*PDF*\]] \n
