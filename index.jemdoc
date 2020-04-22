@@ -16,7 +16,7 @@ Email: [qiangshen@sjtu.edu.cn]; [qiang.shen@hotmail.com]\n
 
 == What's New!
 - April 2020: One journal paper on enhancing the fatigue performance of damaged metallic structures is accepted by Materials & Design, where I helped with the Maltab simulation verifying the experimental results.
-- April 2020: The code for the active fault-tolerant control design of a rigid body under actuator fault (i.e., [https://doi.org/10.1109/TIE.2018.2854602 TIE-19 paper]) is uploaded on Github. You can find the [Papers/Shen2018TIE.pdf paper] and [https://github.com/qiangs/AFTC_Attitude_Control code] on Publications page.  
+- April 2020: The code for the active fault-tolerant control design of a rigid body under actuator fault (i.e., [https://doi.org/10.1109/TIE.2018.2854602 TIE-19 paper]) is uploaded on GitHub. You can find the [Papers/Shen2018TIE.pdf paper] and [https://github.com/qiangs/AFTC_Attitude_Control code] on the Publications page.  
 - February 2020: One journal paper on fault modeling of momentum exchange devices is accepted by Journal of The Franklin Institute. 
 - February 2020: One journal paper on attitude control using two parallel control moment gyros (CMGs) is accepted by IEEE Transactions on Aerospace and Electronic Systems. 
 - February 2020: One journal paper on fault-tolerant control accommodating control moment gyro (CMG) fault is accepted by IEEE Transactions on Control Systems Technology.   
