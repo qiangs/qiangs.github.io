@@ -15,6 +15,7 @@ Email: [qiangshen@sjtu.edu.cn]; [qiang.shen@hotmail.com]\n
 ~~~
 
 == What's New!
+- June 2020: One journal paper on incremental abstraction of nonlinear systems is accepted by IEEE Control Systems Letters (LCSS) and IEEE Conference on Control and Decision (CDC). 
 - April 2020: The code for mesh-based affine abstraction of nonlinear systems with tighter bounds (i.e., [https://ieeexplore.ieee.org/abstract/document/8618714 CDC-18 paper]) is uploaded on GitHub. You can find the [Papers/Conf_Singh2018CDC.pdf paper] and [https://github.com/icetl-ASU/MeshBasedAbstraction code] on the Publications page. 
 - April 2020: One journal paper on enhancing the fatigue performance of damaged metallic structures is accepted by Materials & Design, where I helped with the Maltab simulation verifying the experimental results.
 - April 2020: The code for the active fault-tolerant control design of a rigid body under actuator fault (i.e., [https://doi.org/10.1109/TIE.2018.2854602 TIE-19 paper]) is uploaded on GitHub. You can find the [Papers/Shen2018TIE.pdf paper] and [https://github.com/qiangs/AFTC_Attitude_Control code] on the Publications page.  
