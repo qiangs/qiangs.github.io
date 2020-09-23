@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
-= Qiang Shen (沈强)  [http://www.aero.sjtu.edu.cn/Data/View/3759 中文主页] \n 
+= Qiang Shen (沈强) ~~~ [http://www.aero.sjtu.edu.cn/Data/View/3759 \[中文主页\]] \n 
 
 ~~~
 {}{img_left}{IMG_4349.jpg}{Not Available}{WIDTHpx}{300}{index.html}
@@ -17,9 +17,9 @@ Office Address: Room A227, Aerospace Building, 800 Dongchuan Road, Shanghai, Chi
 
 == Prospective Researchers/Students
 I am looking for Postdoctoral Researchers, Ph.D. and master students who are interested in the following areas. Please feel free to contact me if you are interested. 
-- Control and Estimation Theory, Lyapunov-Based Controller Design, Constrained Control Theory, Control Allocation
-- Fault Diagnosis and Tolerant Control, Robust Optimization-Based Motion Planning and Control Synthesis
-- Attitude Control, Formation Control, Complex Mission Planning  
+- Attitude Determination and Control, Formation Flying, Intention-Aware Autonomous Systems
+- Fault Diagnosis and Tolerant Control, Learning-Aided Control Synthesis, Complex Mission Planning
+- Constrained Control, Lyapunov-Based Controller Design, Control Allocation
 \n
 {{<font color=red size=+0.5><b>}}课题组长期招收博士后、博士生、硕士生以及有意科研的本科生，欢迎有兴趣的同学联系我。{{</b></font>}}
 
