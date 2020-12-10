@@ -25,6 +25,7 @@ We are looking for Postdoctoral Researchers, Ph.D. and master students who are i
 
 
 == What's New!
+- December 2020: One jountal paper on constrained attitude control using adaptive control allocation is accepted by IEEE Control Systems Letters (LCSS) and to be presented at American Confernce Conference (ACC).
 - November 2020: One journal paper on piecewise affine abstraction with polytopic partitions is accepted by IEEE Control Systems Letters (LCSS) and to be presented at American Confernce Conference (ACC).
 - June 2020: One journal paper on incremental abstraction of nonlinear systems is accepted by IEEE Control Systems Letters (LCSS) and to be presented at IEEE Conference on Control and Decision (CDC). 
 - April 2020: The code for mesh-based affine abstraction of nonlinear systems with tighter bounds (i.e., [https://ieeexplore.ieee.org/abstract/document/8618714 CDC-18 paper]) is uploaded on GitHub. You can find the [Papers/Conf_Singh2018CDC.pdf paper] and [https://github.com/icetl-ASU/MeshBasedAbstraction code] on the Publications page. 
