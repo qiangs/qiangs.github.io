@@ -7,11 +7,9 @@
 . C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Angular Velocity Constrained Adaptive Fault-Tolerant Tracking Control of Spacecraft with Actuator Uncertainties and Faults" submitted for journal publication, 2019. #IEEE-TSMC-Sys
 
 
-# Submitted for LCSS
-#. S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``Equalized Recovery Estimators for Affine Systems with Delayed and Missing Observations," submitted for conference publication, 2019. #IEEE-CDC \n
-
 == Journal Papers
-. Z. Y. kang, *Q. Shen*, and S. F. Wu, ``/[http://doi.org/10.1109/LCSYS.2020.3044984 Constrained Attitude Control of Over-actuated Spacecraft Subject to Instrument Pointing Direction Deviation]/," Accepted by IEEE Control Systems Letters, 2020. ~[Papers/Kang2020LCSS.pdf \[*PDF*\]] \n
+. S. M. Hassaan, *Q. Shen*, and S. Z. Yong, "Equalized Recovery State Estimators for Linear Systems with Delayed and Missing Observations," Accepted by IEEE Control Systems Letters, 2021. \n
+. Z. Y. kang, *Q. Shen*, and S. F. Wu, ``/[http://doi.org/10.1109/LCSYS.2020.3044984 Constrained Attitude Control of Over-actuated Spacecraft Subject to Instrument Pointing Direction Deviation]/," Accepted by IEEE Control Systems Letters, 2021. ~[Papers/Kang2020LCSS.pdf \[*PDF*\]] \n
 . Z. Y. Jin, *Q. Shen*, and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2020.3041312 Mesh-Based Piecewise Affine Abstraction with Polytopic Partitions for Nonlinear Systems]/," IEEE Control Systems Letters, 5(5):1543-1548, 2021. ~[Papers/Jin2020LCSS.pdf \[*PDF*\]] \n
 . S. M. Hassaan, M. Khajenejad, S. Jensen, *Q. Shen*, and S. Z. Yong, ``/[https://doi.org/10.1109/LCSYS.2020.3004503 Incremental Affine Abstraction of Nonlinear Systems]/," IEEE Control Systems Letters, 5(2):653-658, 2021. ~[Papers/Hassaan2020LCSS.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, X. Yu and C. H. Goh, ``/[http://doi.org/10.1109/TCST.2020.2971959 Fault Modeling, Estimation and Fault-Tolerant Steering Logic Design for Single Gimbal Control Moment Gyro]/," IEEE Transactions on Control Systems Technology, 29(1):428-435, 2021.  ~[Papers/Shen2020TCST.pdf \[*PDF*\]] \n
@@ -31,6 +29,7 @@
 . *Q. Shen*, D. W. Wang, S. Q. Zhu and E. K. Poh, “/[http://doi.org/10.1109/TCST.2014.2354260  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3):1131-1138, May 2015. ~[Papers/Shen2015TCST.pdf \[*PDF*\]] \n
 
 == Conference Proceedings
+. S. M. Hassaan, *Q. Shen*, and S. Z. Yong, "Path-Dependent Controller and Estimator Synthesis with Robustness to Delayed and Missing Data," ACM International Conference on Hybrid Systems: Computation and Control (HSCC), 2021.\n
 . *Q. Shen* and S. Z. Yong, "/[http://doi.org/10.23919/ECC51009.2020.9143687 Active Model Discrimination Using Partition-Based Output Feedback]/," European Control Conference (ECC), Saint Petersburg, Russia, 2020. ~[Papers/Conf_Shen2019ECC.pdf \[*PDF*\]] \n
 . Z. Y. Jin, *Q. Shen* and S. Z. Yong, "/[http://doi.org/10.1109/CDC40024.2019.9029941 Optimization-Based Approaches for Affine Abstraction and Model Discrimination of Uncertain Nonlinear Systems]/," IEEE Conference on Decision and Control (CDC), Nice, France, 2019. ~[Papers/Conf_Jin2019CDC.pdf \[*PDF*\]] \n
 . X. G. Xiong, W. Q. Chen, Z. C. Liu and *Q. Shen*, "/[http://doi.org/10.1109/RCAR47638.2019.9043969 A Double Stage EKF-based Stereo Visual Inertial Odometry]/,"  IEEE International Conference on Real-time Computing and Robotics, Irkutsk, Russia, 2019. ~[Papers/Conf_ICRCR2019Xiong \[*PDF*\]] \n 
