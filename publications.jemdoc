@@ -7,7 +7,7 @@
 #. C. F. Yue, *Q. Shen*, K. D. Kumar, C. H. Goh, and T. H. Lee, ``Angular Velocity Constrained Adaptive Fault-Tolerant Tracking Control of Spacecraft with Actuator Uncertainties and Faults" submitted for journal publication, 2019. #IEEE-TSMC-Sys
 
 == Journal Papers
-. S. M. Hassaan, *Q. Shen*, and S. Z. Yong, "Equalized Recovery State Estimators for Linear Systems with Delayed and Missing Observations," Accepted by IEEE Control Systems Letters, 2021. \n
+. S. M. Hassaan, *Q. Shen*, and S. Z. Yong, "/[http://doi.org/10.1109/LCSYS.2021.3050300 Equalized Recovery State Estimators for Linear Systems with Delayed and Missing Observations]/," Accepted by IEEE Control Systems Letters, 2021. ~[Papers/Hassaan2021LCSS.pdf \[*PDF*\]] \n
 . Z. Y. Kang, *Q. Shen*, and S. F. Wu, ``/[http://doi.org/10.1109/LCSYS.2020.3044984 Constrained Attitude Control of Over-actuated Spacecraft Subject to Instrument Pointing Direction Deviation]/," Accepted by IEEE Control Systems Letters, 2021. ~[Papers/Kang2020LCSS.pdf \[*PDF*\]] \n
 . Z. Y. Jin, *Q. Shen*, and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2020.3041312 Mesh-Based Piecewise Affine Abstraction with Polytopic Partitions for Nonlinear Systems]/," IEEE Control Systems Letters, 5(5):1543-1548, 2021. ~[Papers/Jin2020LCSS.pdf \[*PDF*\]] \n
 . S. M. Hassaan, M. Khajenejad, S. Jensen, *Q. Shen*, and S. Z. Yong, ``/[https://doi.org/10.1109/LCSYS.2020.3004503 Incremental Affine Abstraction of Nonlinear Systems]/," IEEE Control Systems Letters, 5(2):653-658, 2021. ~[Papers/Hassaan2020LCSS.pdf \[*PDF*\]] \n
