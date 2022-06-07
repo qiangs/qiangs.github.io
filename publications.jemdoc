@@ -5,8 +5,8 @@
 
 
 == Journal Papers
-. *Q. Shen*, R. C. Niu, and S. Z. Yong, ``Tractable Model Discrimination for Safety-Critical Systems with Disjunctive and Coupled Constraints,” Nonlinear Analysis: Hybrid Systems, 2022.  ~[Papers/Shen2022NAHS101217.pdf \[*PDF*\]] \n
-. C. R. Liu, *Q. Shen*, R. C. Niu, and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2021.3135029 Integrated Passive-Active Model Identification with Tunable Model Discrimination for Affine Discrete-Time Systems]/,” IEEE Control Systems Letters, 2022. ~[Papers/Liu2022LCSS.pdf \[*PDF*\]] \n
+. *Q. Shen*, R. C. Niu, and S. Z. Yong, ``/[https://doi.org/10.1016/j.nahs.2022.101217 Tractable Model Discrimination for Safety-Critical Systems with Disjunctive and Coupled Constraints]/,” Nonlinear Analysis: Hybrid Systems, 46:101217, 2022.  ~[Papers/Shen2022NAHS101217.pdf \[*PDF*\]] \n
+. C. R. Liu, *Q. Shen*, R. C. Niu, and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2021.3135029 Integrated Passive-Active Model Identification with Tunable Model Discrimination for Affine Discrete-Time Systems]/,” IEEE Control Systems Letters, 6:1885-1890, 2022. ~[Papers/Liu2022LCSS.pdf \[*PDF*\]] \n
 . S. M. Hassaan, *Q. Shen*, and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2021.3050300 Equalized Recovery State Estimators for Linear Systems with Delayed and Missing Observations]/,” IEEE Control Systems Letters, 6:85-90, 2021. ~[Papers/Hassaan2021LCSS.pdf \[*PDF*\]] \n
 . Z. Y. Kang, *Q. Shen*, and S. F. Wu, ``/[http://doi.org/10.1109/LCSYS.2020.3044984 Constrained Attitude Control of Over-actuated Spacecraft Subject to Instrument Pointing Direction Deviation]/,” IEEE Control Systems Letters, 5(6):1958-1963, 2021. ~[Papers/Kang2020LCSS.pdf \[*PDF*\]] \n
 . Z. Y. Jin, *Q. Shen*, and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2020.3041312 Mesh-Based Piecewise Affine Abstraction with Polytopic Partitions for Nonlinear Systems]/,” IEEE Control Systems Letters, 5(5):1543-1548, 2021. ~[Papers/Jin2020LCSS.pdf \[*PDF*\]] \n
