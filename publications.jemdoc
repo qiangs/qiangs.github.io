@@ -30,6 +30,7 @@
 . *Q. Shen*, D. W. Wang, S. Q. Zhu and E. K. Poh, ``/[http://doi.org/10.1109/TCST.2014.2354260  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3):1131-1138, May 2015. ~[Papers/Shen2015TCST.pdf \[*PDF*\]] \n
 
 == Conference Proceedings
+. H. Z. Liu, *Q. Shen*, C F Yue, ``Model-free fault-tolerant control for formation flying with derivative couplings,” Chinese Control and Decision  Conference (CCDC), 2023.
 . H. X. Zhu, S. F. Wu,  *Q. Shen*, R Sun, ``/[https://doi.org/10.23919/CCC55666.2022.9901557 Q-Learning Based Optimal Tracking Control of Free-Flying Space Manipulators with Unknown Dynamics]/,” Chinese Control Conference (CCC), 2022. ~[Papers/Conf_CCC22Zhu.pdf \[*PDF*\]] \n
 . Z. Y. Kang, S. F. Wu, X. L. Wang, C. Zhong, *Q. Shen*, ``/[https://10.1007/978-981-16-8154-7_24 Adaptive Attitude Control Of Uncertain Spacecraft With Attitude And Angular Velocity Constraints]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2021. ~[Papers/Conf_Kang2021ICCASE.pdf \[*PDF*\]] \n
 . X. Cao, D. R. Gong, *Q. Shen*, S. F. Wu, ``/[https://10.1007/978-981-16-8154-7_12 Fault-Tolerant Attitude Control of Spacecraft via Explicit Model Prediction Method]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2021. ~[Papers/Conf_Cao2023ICCASE.pdf \[*PDF*\]] \n
@@ -61,7 +62,7 @@
 
 == Other Papers
 . Y. Zhang, *Q. Shen*, L. Q. Hou and S. F. Wu, ``/[https://doi.org/10.3390/aerospace8020024 Non-Propellant Eddy Current Brake and Traction in Space Using Magnetic Pulses]/,” Aerospace, 8(2):24, 2021. ~[Papers/Zhang2021Aero.pdf \[*PDF*\]] \n
-. X. L. Wang, S. F. Wu, D. R. Gong, *Q. Shen*, D. F. Wang and C. Demaren, ``/[https://doi.org/10.3390/s21144883 Evaluation of Precise Microwave Ranging Technology for Low Earth Orbit Formation Missions with Beidou Time-Synchronize Receiver]/,” Sensors, 21(14):4883, 2021. ~[Papers/Wang2021Sensors.pdf \[*PDF*\]] \n
+. X. L. Wang, S. F. Wu, D. R. Gong, *Q. Shen*, D. F. Wang and C. Damaren, ``/[https://doi.org/10.3390/s21144883 Evaluation of Precise Microwave Ranging Technology for Low Earth Orbit Formation Missions with Beidou Time-Synchronize Receiver]/,” Sensors, 21(14):4883, 2021. ~[Papers/Wang2021Sensors.pdf \[*PDF*\]] \n
 . X. L. Wang, D. R. Gong, Y. F. Jiang, Q. K. Mo, Z. Y. Kang, *Q. Shen*, S. F. Wu and D. F. Wang, ``/[https://doi.org/10.3390/s20226524 A Submillimeter-Level Relative Navigation Technology for Spacecraft Formation Flying in Highly Elliptical Orbit]/,” Sensors, 20(22):6524, 2020. ~[Papers/Wang2020Sensors.pdf \[*PDF*\]] \n
 . L. Ke, C. Li, J. He, *Q. Shen*, Y. Liu and Y. Jiao, ``/[https://doi.org/10.1016/j.matdes.2020.108731 Enhancing Fatigue Performance of Damaged Metallic Structures by Bonded CFRP Patches Considering Temperature Effects]/,” Materials & Design, 192:108731, 2020. (In this paper, I helped with Matlab simulation verifying the experimental results.) ~[Papers/Ke2020MD.pdf \[*PDF*\]]\n
 
