@@ -4,7 +4,9 @@
 #== Preprints
 
 == Journal Papers
-. Z. Y. Kang, *Q. Shen*, S. F. Wu and C. Demaren, ``/[http://arc.aiaa.org/doi/abs/10.2514/1.G006915 Prescribed Performance-Based Fixed-Time Adaptive Control Allocation for Over-Actuated Spacecraft]/,” Journal of Guidance, Control, and Dynamics, Accepted, Oct. 2022. ~[Papers/Kang2022JGCD.pdf \[*PDF*\]] \n
+. Z. Y. Kang, *Q. Shen*, S. F. Wu and C. Damaren, ``Saturated attitude control of multi-spacecraft systems on SO(3) subject to mixed attitude constraints with arbitrary initial attitude,”IEEE Transactions on Aerospace and Electronic Systems, Accepted, 2023.  \n
+. *Q. Shen*, R. C. Niu and S. Z. Yong, ``/[https://doi.org/10.1016/j.nahs.2022.101217 
+. Z. Y. Kang, *Q. Shen*, S. F. Wu and C. Damaren, ``/[http://arc.aiaa.org/doi/abs/10.2514/1.G006915 Prescribed Performance-Based Fixed-Time Adaptive Control Allocation for Over-Actuated Spacecraft]/,” Journal of Guidance, Control, and Dynamics, Accepted, Oct. 2022. ~[Papers/Kang2022JGCD.pdf \[*PDF*\]] \n
 . *Q. Shen*, R. C. Niu and S. Z. Yong, ``/[https://doi.org/10.1016/j.nahs.2022.101217 Tractable Model Discrimination for Safety-Critical Systems with Disjunctive and Coupled Constraints]/,” Nonlinear Analysis: Hybrid Systems, 46:101217, 2022.  ~[Papers/Shen2022NAHS101217.pdf \[*PDF*\]] \n
 . C. R. Liu, *Q. Shen*, R. C. Niu and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2021.3135029 Integrated Passive-Active Model Identification with Tunable Model Discrimination for Affine Discrete-Time Systems]/,” IEEE Control Systems Letters, 6:1885-1890, 2022. ~[Papers/Liu2022LCSS.pdf \[*PDF*\]] \n
 . S. M. Hassaan, *Q. Shen* and S. Z. Yong, ``/[http://doi.org/10.1109/LCSYS.2021.3050300 Equalized Recovery State Estimators for Linear Systems with Delayed and Missing Observations]/,” IEEE Control Systems Letters, 6:85-90, 2021. ~[Papers/Hassaan2021LCSS.pdf \[*PDF*\]] \n
