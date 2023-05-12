@@ -33,6 +33,7 @@
 . *Q. Shen*, D. W. Wang, S. Q. Zhu and E. K. Poh, ``/[http://doi.org/10.1109/TCST.2014.2354260  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3):1131-1138, May 2015. ~[Papers/Shen2015TCST.pdf \[*PDF*\]] \n
 
 == Conference Proceedings
+. Z. Y. Kang, S. F. Wu, Y. X. Huang, Y. Zhang, *Q. Shen* and X. L. Wang, ``/[https://doi.org/10.1007/978-981-19-6613-2_306 Collision Avoidance and Tracking Control of Multi-spacecraft Under Input Saturation]/,” Proceedings of 2022 International Conference on Guidance, Navigation and Control (ICGNC), 2022.
 . Z. Y. Kang, S. F. Wu, X. L. Wang, C. Zhong, *Q. Shen*, ``/[https://10.1007/978-981-16-8154-7_24 Adaptive Attitude Control Of Uncertain Spacecraft With Attitude And Angular Velocity Constraints]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2023. ~[Papers/Conf_Kang2021ICCASE.pdf \[*PDF*\]] \n
 . X. Cao, D. R. Gong, *Q. Shen*, S. F. Wu, ``/[https://10.1007/978-981-16-8154-7_12 Fault-Tolerant Attitude Control of Spacecraft via Explicit Model Prediction Method]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2023. ~[Papers/Conf_Cao2023ICCASE.pdf \[*PDF*\]] \n
 . S. M. Hassaan, T. Pati, *Q. Shen*, and S. Z. Yong, ``/[https://10.1016/j.ifacol.2021.08.482 Time-Varying Tube-Based Output Feedback MPC for Constrained Linear Systems with Intermittently Delayed Data]/,” IFAC Conference on Analysis and Design of Hybrid Systems (ADHS), 2021. ~[Papers/Conf_Hassaan2021ADHS.pdf \[*PDF*\]] \n
@@ -61,7 +62,7 @@
 . *Q. Shen*, L. F. Gou and X. M. Yang, ``/[https://doi.org/10.1007/978-3-642-21697-8_62  A Design Approach of Model-Based Optimal Fault Diagnosis/],” International Conference on Electric and Electronics, Nanchang, China, 2011, pp. 493-501. ~[Papers/Conf_Shen2011EICC.pdf \[*PDF*\]] \n
 
 == Other Papers
-. 孙笑云, 吴树范, *沈强*, ``/[https://doi.org/10.1360/SST-2022-0213 包含有界切换增益的空间惯性传感器输出调节积分模型参考自适应控制]/,” 中国科学:技术科学，接收, 2023.
+. 孙笑云, 吴树范, *沈强*, ``/[https://doi.org/10.1360/SST-2022-0213 包含有界切换增益的空间惯性传感器输出调节积分模型参考自适应控制]/,” 中国科学:技术科学, 接收, 2023.
 . 孙笑云, *沈强*, 吴树范, ``/[https://10.13700/j.bh.1001-5965.2022.0504 基于改进Kinky Inference的输出调节自适应无拖曳控制]/,” 北京航空航天大学学报, 接收, 2023.
 . Y. Zhang, *Q. Shen*, L. Q. Hou and S. F. Wu, ``/[https://doi.org/10.3390/aerospace8020024 Non-Propellant Eddy Current Brake and Traction in Space Using Magnetic Pulses]/,” Aerospace, 8(2):24, 2021. ~[Papers/Zhang2021Aero.pdf \[*PDF*\]] \n
 . X. L. Wang, S. F. Wu, D. R. Gong, *Q. Shen*, D. F. Wang and C. Demaren, ``/[https://doi.org/10.3390/s21144883 Evaluation of Precise Microwave Ranging Technology for Low Earth Orbit Formation Missions with Beidou Time-Synchronize Receiver]/,” Sensors, 21(14):4883, 2021. ~[Papers/Wang2021Sensors.pdf \[*PDF*\]] \n
