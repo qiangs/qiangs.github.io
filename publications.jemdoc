@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}
-= Qiang Shen -- Publications *
+= Qiang Shen -- Publications
 
 #== Preprints
 
 == Journal Papers
 . Z. C. Wang, J. Y. Chen, J. J. Wang and *Q. Shen*\*, ``/[https://doi.org/10.1007/s42401-023-00238-1 Intention recognition of UAV swarm with data-driven methods]/,” Aerospace Systems, Accepted, Jul. 2023. ~[Papers/Wang2023AS.pdf \[*PDF*\]] \n
-. X. Y. Sun, *Q. Shen* and S. F. Wu, ``/[https://doi.org/10.1109/TAES.2023.3276342 Partial State Feedback MRAC based Reconfigurable Fault-Tolerant Control of Drag-Free Satellite with Bounded Estimation Error]/,” IEEE Transactions on Aerospace and Electronic Systems, Accepted, May 2023. ~[Papers/Sun2023TAES.pdf \[*PDF*\]] \n
+. X. Y. Sun, *Q. Shen* and S. F. Wu\*, ``/[https://doi.org/10.1109/TAES.2023.3276342 Partial State Feedback MRAC based Reconfigurable Fault-Tolerant Control of Drag-Free Satellite with Bounded Estimation Error]/,” IEEE Transactions on Aerospace and Electronic Systems, Accepted, May 2023. ~[Papers/Sun2023TAES.pdf \[*PDF*\]] \n
 . C. F. Yue, T. Huo, M. Lu, *Q. Shen*, C. Y. Li, X. Q. Chen and  X. B. Cao, ``/[https://doi.org/10.1109/TAES.2023.3268607 A Systematic Method for Constrained Attitude Control under Input Saturation]/,” IEEE Transactions on Aerospace and Electronic Systems, Accepted, Apr. 2023. \n 
 . Y. M. Zhu, Z. Y. Kang, H. X. Zhu, S. F. Wu, X. Q. Zhan, *Q. Shen* and C. Zhong,  ``/[https://doi.org/10.1007/s42401-023-00204-x Robust Attitude Consensus Control of Multi-Spacecraft with Stochastic Links Failure]/,” Aerospace Systems, 2023. ~[Papers/Zhu2023AS.pdf \[*PDF*\]] \n
 . Z. Y. Kang, *Q. Shen*, S. F. Wu and C. Demaren, ``/[http://doi.org/10.1109/TAES.2023.3251972 Saturated attitude control of multi-spacecraft systems on SO(3) subject to mixed attitude constraints with arbitrary initial attitude]/,” IEEE Transactions on Aerospace and Electronic Systems, Accepted, Feb. 2023. ~[Papers/Kang2023TAES.pdf \[*PDF*\]] \n
@@ -22,7 +22,7 @@
 . C. F. Yue, *Q. Shen*, X. B. Cao, F. Wang, C. H. Goh and T. H. Lee, ``/[https://doi.org/10.1016/j.jfranklin.2020.02.015 Fault Modeling of General Momentum Exchange Devices in Spacecraft Attitude Control Systems]/,” Journal of The Franklin Institute, 357(11):6407-6434, 2020. ~[Papers/Yue2020JFI.pdf \[*PDF*\]] \n
 . C. F. Yue, F. Wang, X. B. Cao, *Q. Shen*, and X. Q. Chen, ``/[https://doi.org/10.1016/j.jfranklin.2019.10.003 Robust Fault-Tolerant Attitude Tracking with Guaranteed Prescribed Performance]/,” Journal of The Franklin Institute, 357(1):229-253, 2020. ~[Papers/Yue2019Journal_of_Franklin.pdf \[*PDF*\]] \n
 . C. F. Yue, K. D. Kumar, *Q. Shen*, C. H. Goh and T. H. Lee, ``/[https://arc.aiaa.org/doi/abs/10.2514/1.G003445 Attitude Stabilization Using Two Parallel Single Gimbal Control Moment Gyros]/,” Journal of Guidance, Control, and Dynamics, 42(6):1353-1364, 2019. ~[Papers/Yue2019AIAAJGCD.pdf \[*PDF*\]] \n
-. *Q. Shen*, C. F. Yue, C. H. Goh and D. W. Wang, ``/[https://doi.org/10.1109/TIE.2018.2854602  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, 66(5):3763-3772, 2019. ~[Papers/Shen2018TIE.pdf \[*PDF*\]] [https://github.com/qiangs/AFTC_Attitude_Control \[*+CODE+*\]] \n
+. *Q. Shen*, C. F. Yue, C. H. Goh and D. W. Wang, ``/[https://doi.org/10.1109/TIE.2018.2854602  Active Fault-Tolerant Control System Design for Spacecraft Attitude Maneuvers with Actuator Saturation and Faults]/,” IEEE Transactions on Industrial Electronics, 66(5):3763-3772, 2019. ~[Papers/Shen2018TIE.pdf \[*PDF*\]] [https://github.com/qiangs/AFTC_Attitude_Control +\[*CODE*\]+] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh, B. L. Wu and D. W. Wang, ``/[https://doi.org/10.1109/TMECH.2018.2812871  Rigid-Body Attitude Tracking Control under Actuator Faults and Angular Velocity Constraints]/,” IEEE/ASME Transactions on Mechatronics, 23(3):1338-1349, 2018. ~[Papers/Shen2018TMECH.pdf \[*PDF*\]] \n
 . *Q. Shen*, C. F. Yue, C. H. Goh, B. L. Wu and D. W. Wang, ``/[https://doi.org/10.1016/j.automatica.2017.12.029  Rigid-Body Attitude Stabilization with Attitude and Angular Rate Constraints]/,” Automatica, 90:157-163, 2018. ~[Papers/Shen2018Automatica.pdf \[*PDF*\]] ~[Papers/Correction_Auto2018.pdf  \* *CORRECTION!* \*] \n
 . B. L. Wu, *Q. Shen* and X. B. Cao, ``/[https://doi.org/10.1016/j.asr.2017.11.013  Event-Triggered Attitude Control of Spacecraft]/,” Advances in Space Research, 61(3):927-934, 2018. ~[Papers/Wu2018ASR.pdf \[*PDF*\]] \n
