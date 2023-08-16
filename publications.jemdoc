@@ -33,6 +33,8 @@
 . *Q. Shen*, D. W. Wang\*, S. Q. Zhu and E. K. Poh, ``/[https://doi.org/10.1109/TAES.2015.130725  Finite-Time Fault-Tolerant Attitude Stabilization for Spacecraft with Actuator Saturation]/,” IEEE Transactions on Aerospace and Electronic Systems, 51(3):2390-2405, Jul. 2015. ~[Papers/Shen2015TAES.pdf \[*PDF*\]] \n
 . *Q. Shen*, D. W. Wang\*, S. Q. Zhu and E. K. Poh, ``/[http://doi.org/10.1109/TCST.2014.2354260  Integral-Type Sliding Mode Fault-Tolerant Control for Attitude Stabilization of Spacecraft]/,” IEEE Transactions on Control Systems Technology, 23(3):1131-1138, May 2015. ~[Papers/Shen2015TCST.pdf \[*PDF*\]] \n
 
+Note: ``*” is the corresponding authur
+
 == Conference Proceedings
 . Z. Y. Kang, S. F. Wu, Y. X. Huang, Y. Zhang, *Q. Shen* and X. L. Wang, ``/[https://doi.org/10.1007/978-981-19-6613-2_306 Collision Avoidance and Tracking Control of Multi-spacecraft Under Input Saturation]/,” Proceedings of 2022 International Conference on Guidance, Navigation and Control (ICGNC), 2022.
 . Z. Y. Kang, S. F. Wu, X. L. Wang, C. Zhong, *Q. Shen*, ``/[https://doi.org/10.1007/978-981-16-8154-7_24 Adaptive Attitude Control Of Uncertain Spacecraft With Attitude And Angular Velocity Constraints]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2023. ~[Papers/Conf_Kang2021ICCASE.pdf \[*PDF*\]] \n
@@ -74,8 +76,6 @@
 
 == Thesis
 Qiang Shen, ``/[https://dr.ntu.edu.sg/handle/10356/69067 Fault-Tolerant Control for Spacecraft Attitude Control Systems]/," PhD thesis, Nanyang Technological University, 2016.
-
-Note: \`*\` is corresponding authur
 
 ~~~
 Please feel free to [qiang.shen@hotmail.com contact me] should you be interested in my research.
