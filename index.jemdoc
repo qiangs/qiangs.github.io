@@ -27,6 +27,7 @@ We are looking for Postdoctoral Researchers, Ph.D. and master students who are i
 
 
 == What's New!
+- August 2023: One journal paper on supervised learning-based model-free adaptive fault-tolerant is accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - June 2023: One journal paper on intention estimation of UAV swarms with data-driven MLP method is accepted by Aerospace Systems. 
 - May 2023: One journal paper on fault-tolerant control of drag-free spacecraft is accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - May 2023: One journal paper on formation flying subject to stochastic communication link failures is accepted by Aerospace Systems. 
@@ -45,7 +46,7 @@ We are looking for Postdoctoral Researchers, Ph.D. and master students who are i
 - November 2020: One journal paper on piecewise affine abstraction with polytopic partitions is accepted by the IEEE Control Systems Letters (LCSS) and to be presented at the American Control Conference (ACC).
 - June 2020: One journal paper on incremental abstraction of nonlinear systems is accepted by the IEEE Control Systems Letters (LCSS) and to be presented at the IEEE Conference on Control and Decision (CDC). 
 - April 2020: The code for mesh-based affine abstraction of nonlinear systems with tighter bounds (i.e., [https://ieeexplore.ieee.org/abstract/document/8618714 CDC-18 paper]) is uploaded on GitHub. You can find the [Papers/Conf_Singh2018CDC.pdf *paper*] and [https://github.com/icetl-ASU/MeshBasedAbstraction *code*] on the Publications page. 
-- April 2020: One journal paper on enhancing the fatigue performance of damaged metallic structures is accepted by Materials & Design, where I helped with the Matlab simulation verifying the experimental results.
+- April 2020: One journal paper on enhancing the fatigue performance of damaged metallic structures is accepted by Materials & Design, where I helped with the MATLab simulation verifying the experimental results.
 - April 2020: The code for the active fault-tolerant control design of a rigid body under actuator fault (i.e., [https://doi.org/10.1109/TIE.2018.2854602 TIE-19 paper]) is uploaded on GitHub. You can find the [Papers/Shen2018TIE.pdf *paper*] and [https://github.com/qiangs/AFTC_Attitude_Control *code*] on the Publications page.  
 - February 2020: One journal paper on fault modeling of momentum exchange devices is accepted by the Journal of The Franklin Institute. 
 - February 2020: One journal paper on attitude control using two parallel control moment gyros (CMGs) is accepted by the IEEE Transactions on Aerospace and Electronic Systems. 
