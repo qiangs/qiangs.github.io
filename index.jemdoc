@@ -27,6 +27,7 @@ We are looking for Postdoctoral Researchers, Ph.D. and master students who are i
 
 
 == What's New!
+- October 2023: One journal paper on pose tracking control of spacecraft on SE(3) under complex constraints is accepted by Automatica.
 - October 2023: The code for the saturated attitude control of multi-spacecraft systems on SO(3) subject to mixed attitude constraints with arbitrary initial attitude (i.e., [https://doi.org/10.1109/TAES.2023.3251972 TAES-23 paper]) is uploaded on GitHub. You can find the [Papers/Kang2023TAES.pdf *paper*] and [https://github.com/qiangs/Constrained-attitude-control-of-MSS-on-SO3 *code*] on the Publications page.  
 - August 2023: One journal paper on supervised learning-based model-free adaptive fault-tolerant is accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - June 2023: One journal paper on intention estimation of UAV swarms with data-driven MLP method is accepted by Aerospace Systems. 
