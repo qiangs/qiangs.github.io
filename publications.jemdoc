@@ -4,7 +4,7 @@
 #== Preprints
 
 == Journal Papers 
-. Z. Y. Kang, *Q. Shen*\*, S. F. Wu and C. Damaren, ``/[https://doi.org/10.1016/j.automatica.2023.111367 Saturated adaptive pose tracking control of spacecraft on SE(3) under attitude constraints and obstacle-avoidance constraints]/,” Automatica, Accepted, Oct. 2023. ~[Papers/Kang2023Auto.pdf \[*PDF*\]] \n
+. Z. Y. Kang, *Q. Shen*\*, S. F. Wu and C. Damaren, ``/[https://doi.org/10.1016/j.automatica.2023.111367 Saturated adaptive pose tracking control of spacecraft on SE(3) under attitude constraints and obstacle-avoidance constraints]/,” Automatica, 159:111367, Jan. 2024. ~[Papers/Kang2023Auto.pdf \[*PDF*\]] \n
 . X. Y. Sun, *Q. Shen* and S. F. Wu\*, ``/[https://doi.org/10.1016/j.asr.2023.09.024 Event-triggered robust model reference adaptive control for drag-free satellite]/,” Advances in Space Research, Accepted, Sep. 2023. ~[Papers/Sun2023ASR.pdf \[*PDF*\]] \n
 . X. Y. Sun, *Q. Shen*\* and S. F. Wu, ``/[https://doi.org/10.1109/TAES.2023.3312363 Fuzzy Supervised Learning-Based Model-Free Adaptive Fault-Tolerant Spacecraft Attitude Control With Deferred Asymmetric Constraints]/,” IEEE Transactions on Aerospace and Electronic Systems, Accepted, Aug 2023. ~[Papers/Sun2023TAES_b.pdf \[*PDF*\]] \n
 . Z. C. Wang, J. Y. Chen, J. J. Wang and *Q. Shen*\*, ``/[https://doi.org/10.1007/s42401-023-00238-1 Intention recognition of UAV swarm with data-driven methods]/,” Aerospace Systems, Accepted, Jul. 2023. ~[Papers/Wang2023AS.pdf \[*PDF*\]] \n
@@ -39,6 +39,7 @@
 Note: ``*” is the corresponding author \n
 
 == Conference Proceedings
+. X. Y. Song, *Q. Shen*, and S. F. Wu, ``/[https://doi.org/10.1109/CFASTA57821.2023.10243386 Model-Free Spacecraft Attitude Fault-Tolerant Control Based on Adaptive Iterative Fuzzy Kinky Inference]/,” Proceedings of 2023 2nd Conference on Fully Actuated System Theory and Applications (CFASTA), Qingdao, China, 2023.
 . Z. Y. Kang, S. F. Wu, Y. X. Huang, Y. Zhang, *Q. Shen* and X. L. Wang, ``/[https://doi.org/10.1007/978-981-19-6613-2_306 Collision Avoidance and Tracking Control of Multi-spacecraft Under Input Saturation]/,” Proceedings of 2022 International Conference on Guidance, Navigation and Control (ICGNC), 2022.
 . Z. Y. Kang, S. F. Wu, X. L. Wang, C. Zhong, *Q. Shen*, ``/[https://doi.org/10.1007/978-981-16-8154-7_24 Adaptive Attitude Control Of Uncertain Spacecraft With Attitude And Angular Velocity Constraints]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2023. ~[Papers/Conf_Kang2021ICCASE.pdf \[*PDF*\]] \n
 . X. Cao, D. R. Gong, *Q. Shen*, S. F. Wu, ``/[https://doi.org/10.1007/978-981-16-8154-7_12 Fault-Tolerant Attitude Control of Spacecraft via Explicit Model Prediction Method]/,” International Conference on Aerospace System Science and Engineering (ICASSE), 2023. ~[Papers/Conf_Cao2023ICCASE.pdf \[*PDF*\]] \n
@@ -73,6 +74,8 @@ Note: ``*” is the corresponding author \n
 . 岳程斐\*, 陈雪芹, 孙英杰, *沈强*, 柳子然, ``/[https://doi.org/10.13195/j.kzyjc.2022.1322 基于一致性理论的多臂航天器协同控制方法]/,” 控制与决策, 38(5):1430-1437, 2023. ~[Papers/Yue2023控制与决策.pdf \[*PDF*\]] \n
 . 孙笑云, 吴树范\*, *沈强*, ``/[https://doi.org/10.1360/SST-2022-0213 包含有界切换增益的空间惯性传感器输出调节积分模型参考自适应控制]/,” 中国科学:技术科学, 接收, 2023. ~[Papers/Sun2023中国科学.pdf \[*PDF*\]] \n
 . 孙笑云, *沈强*\*, 吴树范, ``/[https://doi.org/10.13700/j.bh.1001-5965.2022.0504 基于改进Kinky Inference的输出调节自适应无拖曳控制]/,” 北京航空航天大学学报, 接收, 2023. ~[Papers/Sun2023北航学报.pdf \[*PDF*\]] \n
+. 孙笑云, 吴树范\*, *沈强*, ``/[https://doi.org/10.15982/j.issn.2096-9287.2023.20220116 基于卡尔曼滤波的输出调节自适应无拖曳控制]/,” 深空探测学报(中英文), 10(03):281-289, 2023. ~[Papers/Sun2023深空探测学报a.pdf \[*PDF*\]] \n
+. 孙笑云, 吴树范\*, *沈强*, ``/[https://doi.org/10.15982/j.issn.2096-9287.2023.20220094 空间惯性传感器数据驱动自适应非对称约束控制]/,” 深空探测学报(中英文), 10(03):320-231, 2023. ~[Papers/Sun2023深空探测学报b.pdf \[*PDF*\]] \n
 
 == Other Papers
 . Y. Zhang, *Q. Shen*, L. Q. Hou and S. F. Wu\*, ``/[https://doi.org/10.3390/aerospace8020024 Non-Propellant Eddy Current Brake and Traction in Space Using Magnetic Pulses]/,” Aerospace, 8(2):24, 2021. ~[Papers/Zhang2021Aero.pdf \[*PDF*\]] \n
