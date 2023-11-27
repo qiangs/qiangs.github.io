@@ -4,7 +4,7 @@
 #== Preprints
 
 == Journal Papers 
-. H. J. Zhuang, H. X. Zhu, S. F. Wu, X. L. Wang, Z. C. Mu and *Q. Shen*, ``/[Robust Control Design for Zero-sum Differential Games Problem Based on Off-policy Reinforcement Learning Technique]/,” Aerospace Systems, Accepted, 2023.  \n
+. H. J. Zhuang, H. X. Zhu, S. F. Wu, X. L. Wang, Z. C. Mu and *Q. Shen*\*, ``/[Robust Control Design for Zero-sum Differential Games Problem Based on Off-policy Reinforcement Learning Technique]/,” Aerospace Systems, Accepted, 2023.  \n
 . Z. Y. Kang, *Q. Shen*\*, S. F. Wu and C. Damaren, ``/[https://doi.org/10.1016/j.automatica.2023.111367 Saturated adaptive pose tracking control of spacecraft on SE(3) under attitude constraints and obstacle-avoidance constraints]/,” Automatica, 159:111367, Jan. 2024. ~[Papers/Kang2023Auto.pdf \[*PDF*\]] [https://github.com/qiangs/Rigid_Body_SE3 +\[*CODE*\]+] \n
 . X. Y. Sun, *Q. Shen* and S. F. Wu\*, ``/[https://doi.org/10.1016/j.asr.2023.09.024 Event-triggered robust model reference adaptive control for drag-free satellite]/,” Advances in Space Research, Accepted, Sep. 2023. ~[Papers/Sun2023ASR.pdf \[*PDF*\]] \n
 . X. Y. Sun, *Q. Shen*\* and S. F. Wu, ``/[https://doi.org/10.1109/TAES.2023.3312363 Fuzzy Supervised Learning-Based Model-Free Adaptive Fault-Tolerant Spacecraft Attitude Control With Deferred Asymmetric Constraints]/,” IEEE Transactions on Aerospace and Electronic Systems, Accepted, Aug 2023. ~[Papers/Sun2023TAES_b.pdf \[*PDF*\]] \n
