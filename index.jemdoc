@@ -27,6 +27,7 @@ We are looking for Postdoctoral Researchers, Ph.D. and master students who are i
 
 
 == What's New!
+- December 2023: One review paper on model predictive control (MPC) is accepted by 南京航空航天大学学报.
 - November 2023: The code for the saturated adaptive pose tracking control of spacecraft on SE(3) under attitude constraints and obstacle-avoidance constraints (i.e., [https://doi.org/10.1016/j.automatica.2023.111367 paper]) is uploaded on GitHub. You can find the [Papers/Kang2023Auto.pdf *paper*] and [https://github.com/qiangs/Rigid_Body_SE3 *code*] on the Publications page.  
 - October 2023: One journal paper on pose tracking control of spacecraft on SE(3) under complex constraints is accepted by Automatica.
 - October 2023: The code for the saturated attitude control of multi-spacecraft systems on SO(3) subject to mixed attitude constraints with arbitrary initial attitude (i.e., [https://doi.org/10.1109/TAES.2023.3251972 TAES-23 paper]) is uploaded on GitHub. You can find the [Papers/Kang2023TAES.pdf *paper*] and [https://github.com/qiangs/Constrained-attitude-control-of-MSS-on-SO3 *code*] on the Publications page.  
