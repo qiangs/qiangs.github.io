@@ -27,6 +27,7 @@ We are looking for Postdoctoral Researchers, Ph.D. and master students who are i
 
 
 == What's New!
+- June 2024: Two journal papers are accepted by Advances in Space Research and IEEE Transactions on Aerospace and Electronic Systems, respectively. 
 - December 2023: One review paper on model predictive control (MPC) is accepted by 南京航空航天大学学报.
 - November 2023: The code for the saturated adaptive pose tracking control of spacecraft on SE(3) under attitude constraints and obstacle-avoidance constraints (i.e., [https://doi.org/10.1016/j.automatica.2023.111367 paper]) is uploaded on GitHub. You can find the [Papers/Kang2023Auto.pdf *paper*] and [https://github.com/qiangs/Rigid_Body_SE3 *code*] on the Publications page.  
 - October 2023: One journal paper on pose tracking control of spacecraft on SE(3) under complex constraints is accepted by Automatica.
