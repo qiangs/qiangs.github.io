@@ -26,7 +26,7 @@ Office Address: Room A239, Aerospace Building, 800 Dongchuan Road, Shanghai, Chi
 # {{<font color=red size=+0.5><b>}}课题组长期招收博士后、博士生、硕士生以及有意科研的本科生，欢迎有兴趣的同学联系我。{{</b></font>}}
 
 == What's New!
-_ November 2024: One journal paper are accepted by Control Engineering Practice.
+- November 2024: One journal paper are accepted by Control Engineering Practice.
 - June 2024: Two journal papers are accepted by Advances in Space Research and IEEE Transactions on Aerospace and Electronic Systems, respectively. 
 - December 2023: One review paper on model predictive control (MPC) is accepted by 南京航空航天大学学报.
 - November 2023: The code for the saturated adaptive pose tracking control of spacecraft on SE(3) under attitude constraints and obstacle-avoidance constraints (i.e., [https://doi.org/10.1016/j.automatica.2023.111367 paper]) is uploaded on GitHub. You can find the [Papers/Kang2023Auto.pdf *paper*] and [https://github.com/qiangs/Rigid_Body_SE3 *code*] on the Publications page.  
